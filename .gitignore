@@ -1,3 +1,5 @@
+*.zip
 .DS_Store
 .ipyn*
 .vscode/
+__pycache__/
